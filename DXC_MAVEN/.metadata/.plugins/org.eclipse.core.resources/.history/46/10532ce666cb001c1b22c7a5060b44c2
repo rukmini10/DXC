@@ -1,0 +1,27 @@
+package com.dxc.person.dao;
+
+import java.util.List;
+
+import javax.sql.DataSource;
+
+import com.dxc.person.bean.Person;
+
+public interface PersonDao {
+	
+		public void setDataSource(DataSource ds);
+		
+		// Adding new person details
+		public void createNewPerson(String firstName,String lastName, String emailId,String city);
+		
+		// For displaying  all records
+		public List<Person> listStudents();
+		
+		//4. Show Student info by rollno
+		public Student getStudentById(int rollno);
+		
+		//5. To update student info
+		public void updateStudent(int rollno,String stream,float avgmarks);
+		
+		//6. To remove student info by rollno
+		public void deleteStudentById(int rollno);
+}

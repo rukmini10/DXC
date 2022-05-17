@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/dxcbatchdb
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.datasource.username=root
+spring.datasource.password=Mysql@2710
+spring.datasource.initialize=true
+spring.datasource.schema=classpath:schema.sql
+spring.batch.jdbc.initialize-schema=ALWAYS

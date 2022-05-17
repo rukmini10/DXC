@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+    <title>adding new method in js</title>
+
+</head>
+<body>
+    <script>
+        var person={
+         firstName:"Kakumani",
+         lastName:"Pavan",
+         sureName:"kalyan",
+         age:21,
+         getFullName:function(){
+             return person.firstName+ " "+person.lastName+" "+person.sureName;
+         }
+        }
+        person.getFirstName=function(){
+            return this.firstName;
+        }
+        console.log(person.getFullName())
+        console.log(person.getFirstName())
+     </script>
+
+</body>
+</html>

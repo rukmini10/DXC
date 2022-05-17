@@ -1,0 +1,23 @@
+package com.dxc.training;
+
+import org.hibernate.Session;
+
+import com.dxc.training.bean.Employee;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Session session=null;
+        Employee emp=null;
+        int rec=0;
+        try {
+        	session=new Configuration.configure("hibernate.cfg.xml");
+        }
+        
+    }
+}

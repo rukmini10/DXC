@@ -1,0 +1,27 @@
+package com.dxc.training.log;
+
+import org.apache.log4j.Logger;
+
+public class LogDemo {
+	private void callingMe(String msg) {
+		// TODO Auto-generated method stub
+		if(logger.isDebugEnabled()) {
+			logger.debug("Thhis is a debug "+msg);
+		}
+		if(logger.isInfoEnabled()) {
+			logger.debug("Thhis is a debug "+msg);
+		}
+		
+		
+	}
+	
+	final static Logger logger=Logger.getLogger(LogDemo.class);
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		LogDemo logDemo=new LogDemo();
+		logDemo.callingMe("Hello Applicant");
+
+	}
+	
+
+}

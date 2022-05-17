@@ -1,0 +1,8 @@
+package com.dxc.banking.register;
+
+import javax.servlet.annotation.WebServlet;
+
+@WebServlet("/Register")
+public class Register {
+
+}

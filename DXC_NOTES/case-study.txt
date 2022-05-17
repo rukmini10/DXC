@@ -1,0 +1,26 @@
+apex hospital has patients drs nurses and other helping staffs with one manager 
+you are required to help manager by automating the system 
+so he/she can check all if required
+
+one admin-new patients comming need to store their data
+          patient is assigned to doctor - 
+          which doctor is assigned to the patient 
+           need to add that details
+        and to get that details
+      we have to maintain the record of doctors, nurses, patients, and other helping staff
+patient can be added by doctors/nurses
+doctors/nurses and helping staff added by managers only-admin
+categories-
+patients can see only their record
+doctors can see only their records and patients, nurses and other staff
+
+people would be like
+first is admin
+then doctors
+nurses
+patients
+and helping staff
+
+
+ DFD 
+sdlc diagram

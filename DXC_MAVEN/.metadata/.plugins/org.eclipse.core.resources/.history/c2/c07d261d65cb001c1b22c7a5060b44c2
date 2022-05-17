@@ -1,0 +1,10 @@
+package com.dxc.person.bean;
+
+public class Person {
+id;
+firstName;
+lastName;
+emailId;
+city;
+
+}

@@ -1,0 +1,6 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/dxcdb
+spring.datasource.username=root
+spring.datasource.password=San@root123!
+spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=update

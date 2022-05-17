@@ -1,0 +1,31 @@
+package com.dxc.person.bean;
+
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import org.springframework.jdbc.core.RowMapper;
+
+import com.dxc.person.bean.Person;
+import com.dxc.training.bean.Student;
+
+public class PersonMapper implements RowMapper<Person> {
+
+	public Person mapRow(ResultSet rs, int rowNum) throws SQLException {
+		// TODO Auto-generated method stub
+		Student student=new Student();
+		student.setRollno(rs.getInt("rollno"));
+		student.setName(rs.getString("name"));
+		student.setStream(rs.getString("stream"));
+		student.setAvgmarks(rs.getFloat("avgmarks"));
+		return student;
+		
+		Person person=new Person();
+		person.setId(rs.getInt("id"));
+		person.setFirstName(rs.getString("firstName"));
+		person.setLastName(rs.getString("lastName"));
+		person.setEmailId(rs.getString("emailId"));
+		person.setCity(rs.getString("city"));
+		return null;
+	}
+
+}

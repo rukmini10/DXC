@@ -1,0 +1,10 @@
+package com.dxc.banking.register;
+
+public class RegisterDao {
+
+	public String insert(Member member) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

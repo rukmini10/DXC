@@ -1,0 +1,35 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from PlayWithNumberServiceService WSDL service -->
+
+  <service name="PlayWithNumberService" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://ws.training.dxc.com"/>
+      <parameter name="wsdlServiceElement" value="PlayWithNumberServiceService"/>
+      <parameter name="schemaQualified" value="http://ws.training.dxc.com"/>
+      <parameter name="wsdlServicePort" value="PlayWithNumberService"/>
+      <parameter name="className" value="com.dxc.training.ws.PlayWithNumberServiceSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="PlayWithNumberService"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="numberType" qname="operNS:NumberType" xmlns:operNS="http://ws.training.dxc.com" returnQName="retNS:NumberTypeReturn" xmlns:retNS="http://ws.training.dxc.com" returnType="rtns:string" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:in0" xmlns:pns="http://ws.training.dxc.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="numberSquare" qname="operNS:NumberSquare" xmlns:operNS="http://ws.training.dxc.com" returnQName="retNS:NumberSquareReturn" xmlns:retNS="http://ws.training.dxc.com" returnType="rtns:int" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:in0" xmlns:pns="http://ws.training.dxc.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <operation name="numberSum" qname="operNS:NumberSum" xmlns:operNS="http://ws.training.dxc.com" returnQName="retNS:NumberSumReturn" xmlns:retNS="http://ws.training.dxc.com" returnType="rtns:int" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+        <parameter qname="pns:in0" xmlns:pns="http://ws.training.dxc.com" type="tns:int" xmlns:tns="http://www.w3.org/2001/XMLSchema"/>
+      </operation>
+      <parameter name="allowedMethods" value="numberType numberSum numberSquare"/>
+
+  </service>
+</deployment>

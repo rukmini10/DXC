@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;008.SpringBatchCsvToDb/src/main/resources/Untitled1&apos; to &apos;schema.sql&apos;" description="Rename resource &apos;Untitled1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/Untitled1" name="schema.sql" stamp="1651898505098" updateReferences="true"/>
+</session>

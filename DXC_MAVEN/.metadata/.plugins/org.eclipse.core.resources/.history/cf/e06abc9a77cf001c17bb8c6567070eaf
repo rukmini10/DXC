@@ -1,0 +1,7 @@
+
+public class RegisterDao {
+private String dburl="jdbc:mysql://localhost:3306/dxcdb";
+private String dbuname="root";
+private String dbpassword="Mysql@2710";
+
+}

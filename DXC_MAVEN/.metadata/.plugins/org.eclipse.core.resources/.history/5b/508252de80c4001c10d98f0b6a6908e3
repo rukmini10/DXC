@@ -1,0 +1,38 @@
+package com.dxc.training;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.service.ServiceRegistry;
+
+import com.dxc.training.bean.Employee;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Session session=null;
+        Employee emp=null;
+        int rec=0;
+        try {
+        	Configuration configObj=new Configuration();
+            configObj.configure("hibernate.cfg.xml");	
+            ServiceRegistry serviceRegistryObj=new StandardServiceRegistryBuilder
+            		().applySettings(configObj.getProperties()).build();
+          
+            
+            SessionFactory sessionfactory=configObj.buildSessionFactory(serviceRegistryObj);
+            session=(Session) sessionfactory.openSession();
+            
+        }
+        catch(Exception e) {
+        	
+        }
+        
+    }
+}

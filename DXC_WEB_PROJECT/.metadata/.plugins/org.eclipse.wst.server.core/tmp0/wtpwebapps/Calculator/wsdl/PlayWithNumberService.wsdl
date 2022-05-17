@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions targetNamespace="http://ws.training.dxc.com" xmlns:apachesoap="http://xml.apache.org/xml-soap" xmlns:impl="http://ws.training.dxc.com" xmlns:intf="http://ws.training.dxc.com" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:wsdlsoap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--WSDL created by Apache Axis version: 1.4
+Built on Apr 22, 2006 (06:55:48 PDT)-->
+ <wsdl:types>
+  <schema elementFormDefault="qualified" targetNamespace="http://ws.training.dxc.com" xmlns="http://www.w3.org/2001/XMLSchema">
+   <element name="NumberType">
+    <complexType>
+     <sequence>
+      <element name="in0" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="NumberTypeResponse">
+    <complexType>
+     <sequence>
+      <element name="NumberTypeReturn" type="xsd:string"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="NumberSquare">
+    <complexType>
+     <sequence>
+      <element name="in0" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="NumberSquareResponse">
+    <complexType>
+     <sequence>
+      <element name="NumberSquareReturn" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="NumberSum">
+    <complexType>
+     <sequence>
+      <element name="in0" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+   <element name="NumberSumResponse">
+    <complexType>
+     <sequence>
+      <element name="NumberSumReturn" type="xsd:int"/>
+     </sequence>
+    </complexType>
+   </element>
+  </schema>
+ </wsdl:types>
+
+   <wsdl:message name="NumberTypeResponse">
+
+      <wsdl:part element="impl:NumberTypeResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="NumberSumResponse">
+
+      <wsdl:part element="impl:NumberSumResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="NumberSquareResponse">
+
+      <wsdl:part element="impl:NumberSquareResponse" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="NumberSquareRequest">
+
+      <wsdl:part element="impl:NumberSquare" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="NumberTypeRequest">
+
+      <wsdl:part element="impl:NumberType" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:message name="NumberSumRequest">
+
+      <wsdl:part element="impl:NumberSum" name="parameters">
+
+      </wsdl:part>
+
+   </wsdl:message>
+
+   <wsdl:portType name="PlayWithNumberService">
+
+      <wsdl:operation name="NumberType">
+
+         <wsdl:input message="impl:NumberTypeRequest" name="NumberTypeRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:NumberTypeResponse" name="NumberTypeResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="NumberSquare">
+
+         <wsdl:input message="impl:NumberSquareRequest" name="NumberSquareRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:NumberSquareResponse" name="NumberSquareResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="NumberSum">
+
+         <wsdl:input message="impl:NumberSumRequest" name="NumberSumRequest">
+
+       </wsdl:input>
+
+         <wsdl:output message="impl:NumberSumResponse" name="NumberSumResponse">
+
+       </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:portType>
+
+   <wsdl:binding name="PlayWithNumberServiceSoapBinding" type="impl:PlayWithNumberService">
+
+      <wsdlsoap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+
+      <wsdl:operation name="NumberType">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="NumberTypeRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="NumberTypeResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="NumberSquare">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="NumberSquareRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="NumberSquareResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+      <wsdl:operation name="NumberSum">
+
+         <wsdlsoap:operation soapAction=""/>
+
+         <wsdl:input name="NumberSumRequest">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:input>
+
+         <wsdl:output name="NumberSumResponse">
+
+            <wsdlsoap:body use="literal"/>
+
+         </wsdl:output>
+
+      </wsdl:operation>
+
+   </wsdl:binding>
+
+   <wsdl:service name="PlayWithNumberServiceService">
+
+      <wsdl:port binding="impl:PlayWithNumberServiceSoapBinding" name="PlayWithNumberService">
+
+         <wsdlsoap:address location="http://localhost:8080/Calculator/services/PlayWithNumberService"/>
+
+      </wsdl:port>
+
+   </wsdl:service>
+
+</wsdl:definitions>

@@ -1,0 +1,102 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+ pageEncoding="UTF-8"%>
+    <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+        <html>
+
+        <head>
+            <title>Account Management</title>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        </head>
+
+        <body>
+
+            <header>
+                <nav class="navbar navbar-expand-md navbar-dark" style="background-color: tomato">
+                    <div>
+                        <a href="https://www.javaguides.net" class="navbar-brand"> Accounts List</a>
+                    </div>
+
+                    <ul class="navbar-nav">
+                        <li><a href="<%=request.getContextPath()%>/list" class="nav-link">Accounts</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <br>
+
+            <div class="row">
+                <!-- <div class="alert alert-success" *ngIf='message'>{{message}}</div> -->
+
+                <div class="container">
+                    <h3 class="text-center">List of Accounts</h3>
+                    <hr>
+                    <div class="container text-left">
+
+                        <a href="<%=request.getContextPath()%>/new" class="btn btn-success">Add New Account</a>
+                    </div>
+                    <br>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>User Name</th>
+                                <th>Full Name</th>
+                                <th>Email Id</th>
+                                <th>Phone Number</th>
+                                <th>Address</th>
+                                <th>Pan Card No</th>
+                                <th>Security Question</th>
+                                <th>Balance Amt</th>
+                                <th>Account Type</th>
+                                <th>Opening Date</th>
+                                <th>Account Pwd</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <!--   for (Todo todo: todos) {  -->
+                            <c:forEach var="accountholder" items="${listAccount}">
+
+                                <tr>
+                                    <td>
+                                        <c:out value="${accountholder.UserName}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Full_Name}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Email}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Phone_Number}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Address}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Pancard_Number}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Security_Question}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Balance}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Account_Type}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Opening_Date}" />
+                                    </td>
+                                    <td>
+                                        <c:out value="${accountholder.Account_Password}" />
+                                    </td>
+                                    <td><a href="edit?id=<c:out value='${user.id}' />">Edit</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="delete?id=<c:out value='${user.id}' />">Delete</a></td>
+                                </tr>
+                            </c:forEach>
+                            <!-- } -->
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </body>
+
+        </html>

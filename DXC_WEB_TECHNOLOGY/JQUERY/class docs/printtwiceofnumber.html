@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+    <title>Print twice of number</title>
+    <style>
+        body{
+            color:red;
+            background-color: aquamarine;
+        }
+
+    </style>
+<script>
+    function getAndDisplayNumber(){
+        var num=prompt("Enter a number:");
+        alert("Entered number is:"+num*2);
+        var status=confirm("Wants to continue?");
+        document.write("value of status:"+status);
+        if(num%2==0){
+            alert(num+" is even");
+        }else{
+            alert(num+" is odd");
+        }
+    }
+</script>
+</head>
+<body>
+<form action="#">
+    <input type="submit" onclick="getAndDisplayNumber();" value="Twice of Number"/>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+WEb Service  Notes and Steps
+REST API
+create new project
+we have to use @webService and @WebMethod in code
+webservie with help of wsgen
+First create method 
+run server
+then wsgen command
+then create single line endpoint code in endpointpublisher class
+
+wsgen used to import client classes and code

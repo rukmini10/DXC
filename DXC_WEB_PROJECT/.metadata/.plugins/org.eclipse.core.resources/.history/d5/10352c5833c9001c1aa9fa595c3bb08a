@@ -1,0 +1,8 @@
+package com.dxc.rest;
+
+
+@Path("/add")
+
+public class ProductService {
+
+}

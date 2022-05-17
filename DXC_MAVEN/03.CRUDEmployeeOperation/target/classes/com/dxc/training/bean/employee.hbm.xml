@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC 
+"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+  <class name="com.dxc.training.bean.Employee" table="EMPLOYEE">
+   <id name="empId" type="int" column="EMPID" >
+   <generator class="increment"/>
+  </id>
+
+  <property name="firstName">
+   <column name="FIRSTNAME" />
+  </property>
+  <property name="lastName">
+  <column name="LASTNAME"/>
+  </property>
+  <property name="email">
+  <column name="EMAIL"/>
+  </property>
+  <property name="salary">
+  <column name="SALARY"/>
+  </property>
+ </class>
+</hibernate-mapping>

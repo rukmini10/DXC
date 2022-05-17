@@ -1,0 +1,17 @@
+package com.dxc.banking.register;
+
+public class Member {
+
+	private String UserName;
+	private String Full_Name;
+	private String Email;
+	private String Phone_Number;
+	private String Address;
+	private String Pancard_Number;
+	private String Security_Question;
+	private String Balance;
+	private String Account_Type;
+	private String Opening_Date;
+	private String Account_Password;
+	
+}

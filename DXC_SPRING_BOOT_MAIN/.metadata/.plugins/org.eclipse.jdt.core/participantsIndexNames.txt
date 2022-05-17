@@ -1,0 +1,23 @@
+INDEX VERSION 1.131
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2521238673.index
+\spring-mvc-user-reg-login\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2261535408.index
+\002.SpringBootWebWithJSP\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1257010357.index
+\003.SpringBootWebWithJSPResponse\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\787926666.index
+\SpringMvc\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\136852478.index
+\RegisterLogin\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1337168074.index
+\RegisterLogin\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4222369228.index
+\P1.SpringBootWeb\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3198945648.index
+\004.SpringBootWebStaticLogin\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1678644982.index
+\ShopifyFrontend\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2890898490.index
+\spring-mvc-user-reg-login\src\main\java
+F:\DXC_SPRING_BOOT_MAIN\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2107122836.index
+\ShopifyFrontend\src\main\java

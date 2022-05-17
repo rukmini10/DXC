@@ -1,0 +1,8 @@
+package com.dxc.rest;
+import javax.ws.rs.Path;
+
+@Path("/add")
+
+public class ProductService {
+
+}

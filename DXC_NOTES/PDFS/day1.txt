@@ -1,0 +1,170 @@
+Java Naming convention:
+1. package name should be in lower case.
+greetings
+2. All classes or interfaces first letter should be capital
+Greetings, Customer, Client
+3. If Class or interface containing more than one word, first letter of each word should be in upper case.
+NumberCalculator, FileNotFoundException
+4. variable or method name first character would be in lower case but if more than one word containing then from second word, 
+first letter would be capital.
+name, firstName, lastName
+find(),nextInt(), findFirstNumber()
+constant varaiable name should be in upper case.
+double PI=3.14;
+
+Comments are not executable:
+Single line comment: for writing single line comment
+//Java code to print Hello and welcome to java world!
+
+Multiline Comment:for writing multiple lines comment.
+
+/*
+line 1
+line 2
+line 3
+*/
+
+
+Java Library divided in to number of packages:
+lang
+io
+net
+util
+
+/*Data type
+ * byte
+ * char
+ * int
+ * long
+ * float
+ * double
+ * boolean
+ */
+Simple Statement: All lines execute one by one without skipping any line.
+
+Q1. Write a Java class that declares variables to represent the length and width of a room in feet. Assign appropriate values to 
+the variables-for example, length = 15 and width = 25. Compute and display the floor space of the room in square feet 
+(area = length * width). Display explanatory text with the value—for example, The floor space is 375 square feet. Save the class 
+as Room.java.
+
+Conditional Statement:
+if(expression)
+statement for true
+else
+statement for false
+
+if(expression){
+set of statements for true
+}else{
+set of statements for false
+}
+
+if(expression 1){
+set of statements for true
+} 
+else if(expression2){
+set of statements for true
+} 
+else if(expressionN){
+set of statements for true
+}
+else{
+statement for false
+}
+
+
+
+package name :conditional
+Q1. Java code to get age of two trainees and find out who is elder
+Q2. Java code to get any 3 numbers and find difference between biggest and smallest number
+Q3. Java code to get cost price and sale price of an item and findout out loss or profit or nothing(no loss no profit)
+Q4. Java code to get unit of electricity consumed and find the electric bill based on following:
+uints<200 its free
+units are >200 and <=500, 5.25 per unit
+units are >500 and <=800, 8.50 per unit
+Q5.Java code to get marks for c, c++ and java, find out grade based avgmarks
+A++  >90
+A   >80
+B  >70
+C >60
+D <60
+
+2nd Conditional Statement:
+switch..case
+
+syntax:
+switch(choice){
+case 1:
+statement for true;
+break;
+case 2:
+statement for true;
+break;
+case N:
+statement for true;
+break;
+default:
+statement for false;
+}
+
+Q. Jave code to create a menu driven progrma which will ask choice and based on choice
+do some calculation.
+
+CALCULATOR
+1. Add
+2. Sub
+3. Mul
+4. Div
+5. exit
+Enter your choice(1-5):
+1
+Enter first Number:12
+Enter second Number:13
+Sum is 25
+
+
+What is method in java?
+It is a block of code, used for completing a specific task.
+Method Access Mode
+Method Name
+Method Parameters
+Method Return type
+
+
+private
+protected
+public
+defalut
+
+class and object:
+A factory to produce same kind of objects.
+Class Name:Car
+==============================
+property:
+brand,model,color,capacity
+=============================
+methods
+Running on road,
+Standing
+Out of order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

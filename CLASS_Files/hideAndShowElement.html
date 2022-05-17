@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<head>
+    <title>Showing element using radio</title>
+    <style>
+        .msg{
+            margin-top: 25px;
+            padding:25px;
+            display:none;
+            color:black;
+        }
+        .hotpink{
+            background-color: hotpink;
+        }
+        .green{
+            background-color: greenyellow;
+        }
+        .blue{
+            background-color: blue;
+        }
+    </style>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js">
+    </script>
+    <script>
+    $(document).ready(function(){
+        $('input[type="radio"]').click(function(){
+          var val = $(this).attr("value");
+          var target = $("." + val);
+          $(".msg").not(target).hide();
+          $(target).show();
+        });
+      });
+</script>
+</head>
+<body>
+<form>
+<fieldset>
+    <legend>Colors</legend>
+    <input type="radio" name="color" value="hotpink"> hotpink
+    <input type="radio" name="color" value="green"> Green
+    <input type="radio" name="color" value="blue"> Blue
+    <div class="hotpink msg">You have selected hotpink</div>
+    <div class="green msg">You have selected Green</div>
+    <div class="blue msg">You have selected Blue</div>
+</fieldset>
+</form>
+</body>
+</html>

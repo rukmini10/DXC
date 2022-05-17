@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/dxc/training/ws/PlayWithNumberService.java=UTF-8
+encoding//src/main/java/com/dxc/training/ws/PlayWithNumberServiceService.java=UTF-8
+encoding//src/main/java/com/dxc/training/ws/PlayWithNumberServiceServiceLocator.java=UTF-8
+encoding//src/main/java/com/dxc/training/ws/PlayWithNumberServiceSoapBindingStub.java=UTF-8
+encoding//src/main/java/com/dxc/webservice/Calculator.java=UTF-8
+encoding//src/main/java/com/dxc/webservice/CalculatorService.java=UTF-8
+encoding//src/main/java/com/dxc/webservice/CalculatorServiceLocator.java=UTF-8
+encoding//src/main/java/com/dxc/webservice/CalculatorSoapBindingStub.java=UTF-8

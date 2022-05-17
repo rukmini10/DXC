@@ -1,0 +1,10 @@
+package com.dxc.training.log;
+
+import org.apache.log4j.Logger;
+
+public class Calculator {
+	final static Logger logger=Logger.getLogger(Calculator.class);
+	public static void main(String[] args){
+	}
+	}
+}

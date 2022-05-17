@@ -1,0 +1,9 @@
+check in- local to remote
+check out- remote to local
+
+git is installed and maintained on your local system
+
+
+github is designed as a git repository hosting service
+github is exclusively cloud-based
+

@@ -1,0 +1,9 @@
+package com.dxc.training;
+
+import javax.ws.rs.Path;
+
+@Path("/service")
+public class ProductService {
+	private ProductDAO dao=ProductDAO.getDao();
+	
+}

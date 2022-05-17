@@ -1,0 +1,5 @@
+127.0.0.1 - - [09/May/2022:11:34:25 +0530] "GET / HTTP/1.1" 404 752
+127.0.0.1 - - [09/May/2022:11:34:34 +0530] "GET /spring-mvc-user-reg-login/ HTTP/1.1" 200 551
+127.0.0.1 - - [09/May/2022:11:34:34 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+127.0.0.1 - - [09/May/2022:11:35:51 +0530] "POST /spring-mvc-user-reg-login/register HTTP/1.1" 404 790
+127.0.0.1 - - [09/May/2022:11:36:12 +0530] "GET /favicon.ico HTTP/1.1" 404 763

@@ -1,0 +1,28 @@
+<!-- Use this file to deploy some handlers/chains and services      -->
+<!-- Two ways to do this:                                           -->
+<!--   java org.apache.axis.client.AdminClient deploy.wsdd          -->
+<!--      after the axis server is running                          -->
+<!-- or                                                             -->
+<!--   java org.apache.axis.utils.Admin client|server deploy.wsdd   -->
+<!--      from the same directory that the Axis engine runs         -->
+
+<deployment
+    xmlns="http://xml.apache.org/axis/wsdd/"
+    xmlns:java="http://xml.apache.org/axis/wsdd/providers/java">
+
+  <!-- Services from NameConversionService WSDL service -->
+
+  <service name="NameConversion" provider="java:RPC" style="wrapped" use="literal">
+      <parameter name="wsdlTargetNamespace" value="http://ws.dxc.com"/>
+      <parameter name="wsdlServiceElement" value="NameConversionService"/>
+      <parameter name="schemaQualified" value="http://ws.dxc.com"/>
+      <parameter name="wsdlServicePort" value="NameConversion"/>
+      <parameter name="className" value="com.dxc.ws.NameConversionSoapBindingImpl"/>
+      <parameter name="wsdlPortType" value="NameConversion"/>
+      <parameter name="typeMappingVersion" value="1.2"/>
+      <operation name="nConvertor" qname="operNS:nConvertor" xmlns:operNS="http://ws.dxc.com" returnQName="retNS:nConvertorReturn" xmlns:retNS="http://ws.dxc.com" returnType="rtns:string" xmlns:rtns="http://www.w3.org/2001/XMLSchema" soapAction="" >
+      </operation>
+      <parameter name="allowedMethods" value="nConvertor"/>
+
+  </service>
+</deployment>

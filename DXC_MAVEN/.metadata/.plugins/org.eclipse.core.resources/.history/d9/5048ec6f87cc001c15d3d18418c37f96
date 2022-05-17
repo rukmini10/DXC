@@ -1,0 +1,59 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+pageEncoding="ISO-8859-1"%>
+<%@ page import="java.sql.*" %>
+<%! String driverName = "com.mysql.jdbc.Driver";%>
+<%!String url = "jdbc:mysql://localhost:3306/dxcdb";%>
+<%!String user = "root";%>
+<%!String psw = "Mysql@2710";%>
+<%
+
+String UserName = request.getParameter("UserName");
+String Full_Name=request.getParameter("Full_Name");
+String Email=request.getParameter("Email");
+String Phone_Number=request.getParameter("Phone_Number");
+String Address=request.getParameter("Address");
+String Pancard_Number=request.getParameter("Pancard_Number");
+String Security_Question=request.getParameter("Security_Question");
+String Balance=request.getParameter("Balance");
+String Account_Type=request.getParameter("Account_Type");
+String Opening_Date=request.getParameter("Opening_Date");
+String Account_Password=request.getParameter("Account_Password");
+if(UserName != null)
+{
+Connection con = null;
+PreparedStatement ps = null;
+
+try
+{
+Class.forName(driverName);
+con = DriverManager.getConnection(url,user,psw);
+String sql="Update account_holder_Details set UserName=?,Full_Name=?,Email=?,Phone_Number=?,Address=?,Pancard_Number=?,Security_Question=?, Balance=? ,Account_Type=?,Opening_Date=?,Account_Password=? where UserName";
+ps = con.prepareStatement(sql);
+ps.setString(1,UserName);
+ps.setString(2, Full_Name);
+ps.setString(3, Email);
+ps.setString(4, Phone_Number);
+ps.setString(5, Address);
+ps.setString(6, Pancard_Number);
+ps.setString(7, Security_Question);
+ps.setString(8, Balance);
+ps.setString(9, Account_Type);
+ps.setString(10, Opening_Date);
+ps.setString(11, Account_Password);
+int i = ps.executeUpdate();
+if(i > 0)
+{
+out.print("Record Updated Successfully");
+}
+else
+{
+out.print("There is a problem in updating Record.");
+} 
+}
+catch(SQLException sql)
+{
+request.setAttribute("error", sql);
+out.println(sql);
+}
+}
+ %>

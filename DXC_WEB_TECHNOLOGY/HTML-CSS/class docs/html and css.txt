@@ -1,0 +1,338 @@
+HTML stands for Hyper Text Markup Languege used for showing enclosed data in tags on web. 
+It helps to tell to the browser that how to show enclosed text on web.
+It helps to create the structure of the web page or website but simple.
+It is not a case-sensitive language there all cases accepted.
+
+To work on HTML, following softwares can be used.
+1. TEXT editor(notepad,notepa++,Sublime,visual studio code etc)
+2. Any Browser(IE, Google Chrome,Mozila, Opera etc)
+
+HTML consists of tags. Tags can be categories as 
+1. Paired tag/Container tag:
+   It consists of start tag<> and end tag</>
+	<html></html>
+2. Emplty/Singleton/non Container tag:
+	It consists only start tag<> only no end tag</> required.
+	<br>
+
+<html>
+	<head>
+	<!--Writing comments in html
+		//meta data which is data about data
+		//title of the page,description,icon
+		//keyword for search engine
+		//style to beautifying the page
+		//script to make page live and actionable
+	-->
+	</head>
+	<body>
+		<!-- this is the actual webpage container where you will writing something on webpage.
+		-->
+		<hn></hn>
+		<!--where n could be 1 to 6, start from bigger font to lower-->
+	</body>
+</html>
+
+
+Attributes in HTML:
+It helps to enhance the appearance of text enclosed in tags. It always comes under start tag therefore it can come under container as well as empty both tags.
+
+Horizontal Ruler<hr>
+Break a line<br>
+Paragraph<p></p>
+Hyperlink<a href="" target="_blank"></>
+
+If you are using sublime text editior, design webpage become much easier.
+
+To create root tages, you need to just write html and presss tab you will get the root tag.
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+To write any tag, just type the name of tag and press tab and select the tag you want from the options given, tag will be created with important attributes.
+To Show Image:
+<img src=""/>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>first web page</title>
+</head>
+<body>
+<h1>This is first page</h1>
+<img style="height:400px;width:400px;border-radius:100px;"src="Sarthak.jpeg"/>
+</body>
+</html>
+
+To make list in HTML:
+List can be Ordered and unordered.
+
+To make unordered list
+<ul></ul>
+<ul type="circle/square/disc/none">
+<li>Apple</li>
+<li>Banana</li>
+<li>Grapes</li>
+<li>Pine apple</li>
+</ul>
+
+To make ordered list
+<ol></ol>
+<ol type="1/i/I/a/A" start=''>
+<li>Apple</li>
+<li>Banana</li>
+<li>Grapes</li>
+<li>Pine apple</li>
+</ul>
+
+
+To Create a table:
+<table>
+<tr>
+<th></th>
+</tr>
+<tr>
+<td></td>
+</tr>
+</table>
+
+
+
+    <table border="2" height="50%" width="50%" bgcolor="cyan">
+        <tr>
+        <th>Fruitid</th><th>Name</th><th>Price</th>
+        </tr>
+        <tr bgcolor="pink">
+        <td>122</td><td>Apple</td><td>456.90</td>
+        </tr>
+        <tr>
+        <td>234</td><td>Banana</td><td>567.70</td>
+        </tr>
+        <tr>
+        <td>567</td><td>Mango</td><td>234.56</td>
+        </tr>
+    </table
+	
+To show and play video:
+<video control width="400" height="300" autoplay>
+	<source src="video/video.mp4  type="video/mp4" >	
+	</source>
+</video>	
+
+
+Html forms:
+<form action="" method="" name="">
+<input type=""
+
+</form>
+
+For text box			text
+	radio button		radio
+	checkbox			checkbox
+	password			password
+	file type			file
+	for only numbers	number
+	for date			date
+	for time			time
+	for normal botton	button
+	for submit botton`	submit
+	for refresh			reset
+	for email			email
+	
+for multiple line text	<textarea></textarea>
+<textarea rows="5" cols="70" name=""><textarea>
+
+For combo box:
+<select name="" name=" " size="4" multiple>
+	<option value="Hello">Hello</option>
+	<option value="Hi">Hi</option>
+	<option value="Good Morning">Good Morning</option>
+	<option value="Good Evening">Good Evening</option>
+</select>
+
+<form action="welcome.html" method="post">
+	<div align="center">
+		<table border="2" bordercolor="cyan">
+			<tr><th colspan="2">Login Form</th></tr>
+			<tr><td>User Name:</td><td><input type="text" name="userName"/></td></tr>
+			<tr><td>User Password:</td><td><input type="password" name="userPassword"/></td></tr>
+		    <tr><td colspan="2" align="center">
+		    		<input type="submit" value="login"/>
+		    		<input type="reset" value="refresh"/>
+		    		<input type="button" value="close app" onClick="window.close();"/>
+		    	</td>
+		    </tr>
+		</table> 
+		<div style="color:red">${error}</div>
+		<div style="color:green">${msg}</div>
+	</div>
+</form>
+
+
+=======CSS=============================================================
+CSS stands for Cascad Style Sheet.
+
+How do we write CSS?
+<style></style> inside head tag
+
+3.
+Different ways to write CSS
+1. Inline css:
+just write the code at element where we want to show change format.
+<h2 style="color:red"; font-style:italic">this is the inline style css</h2>
+
+2. Internal css:
+We write inside head tag under style tag.
+example index2.html
+
+3. External css:
+We will write css code in a file and save as file.css.
+.css file has to be include into head tag in html file where 
+the formatting or style has to be shown in link tag:
+<link rel="stylesheet" href="mystyle.css"/>
+
+Border styles:
+  p.dotted {border-style: dotted;}
+  p.dashed {border-style: dashed;}
+  p.solid {border-style: solid;}
+  p.double {border-style: double;}
+  p.groove {border-style: groove;}
+  p.ridge {border-style: ridge;}
+  p.inset {border-style: inset;}
+  p.outset {border-style: outset;}
+  p.none {border-style: none;}
+  p.hidden {border-style: hidden;}
+  p.mix {border-style: dotted dashed solid double;}
+
+Border Width:
+  /*1. all sides 2px:*/
+  border-width: 2px;
+  /* 2. 5px top and bottom, 20px on the sides */
+  border-width: 5px 20px;
+  /* 3. 25px top, 10px right, 4px bottom and 35px left */
+  border-width: 25px 10px 4px 35px; 
+
+Border color:
+  /*1. all side blue color*/
+  border-color:blue;
+  /*2. Top - bottom blue and left-right red color*/
+  border-color:blue,red;
+
+<===============Different kind of selectors=========================>
+1. tag/element selector:
+To apply all paragraphs should have font size as 14px
+
+p{
+font-size:14px;
+}
+
+html:
+<p>The quick brown fox jumps over the little lazy dog.</p>
+
+2. id selector(#):
+#bg-clr{
+  background-color:red;
+}
+
+
+3.class selector(.):
+CSS:
+.clr-bg-clr{
+color:hotpink;
+background-color:yellow;
+}
+
+Html:
+<h3 class="clr-bg-clr">If my vision is correct no one can stop me</h3>
+
+4. Universal Selector(*):
+
+CSS:
+*{
+text-align:center;
+color:blue;
+font-width:25px
+}
+
+<!DOCTYPE html>
+<head>
+<style>
+*{
+text-align:center;
+color:blue;
+font-width:25px
+}
+</style>
+</head>
+<body>
+<h1>This is heading 1</h1>
+<p>This is a paragraph tag</p>
+<br>
+<ol>
+<li>list1</li>
+<li>list2</li>
+</ol>
+</body>
+</html>
+
+5. Grouping Selector:
+CSS:
+h2,h4,p{
+color:blue;
+background-color:pink;
+}
+
+<!DOCTYPE html>
+<head>
+<style>
+h2,h4,p{
+color:blue;
+background-color:pink;
+}
+</style>
+</head>
+<body>
+<h1>This is heading 1</h1>
+<p>This is a paragraph tag</p>
+<br>
+<h2>The quick brown fox jumps over the little lazy dog.</h2>
+<ol>
+<li>list1</li>
+<li>list2</li>
+</ol>
+</body>
+</html>
+=====Assignment==============>
+marksheet.html
+Name: first and last name   text
+contact number: number
+email id:email
+Address: text area
+marksheet table
+subject		practical marksheet		theory marksheet		total
+sub1
+sub2
+sub3
+sub4
+
+add your two latest pic
+
+your hobbies:
+ordered list
+
+
+
+
+
+
+
+
+
+

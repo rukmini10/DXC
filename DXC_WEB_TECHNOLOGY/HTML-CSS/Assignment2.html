@@ -1,0 +1,132 @@
+<html>
+
+<head>
+<title>Assignment2</title>
+
+<body>
+
+</head>
+	<style type="text/css">
+h1{text-align: center;
+margin-left: 65px;
+		background-color: black;
+		width: 1350px;
+		height: 1125px
+		margin-top: 20px;
+	}
+	h2{
+		text-align: center;
+	}
+ .checkbox{
+		margin-left: 200px;
+	}
+	#name{
+		margin-left: 110px;
+	}
+	#genger{
+		margin-left: 900px;
+
+	}
+	.column{
+		float: left;
+		width: 50%;
+		padding: 10%;
+		height: 300px;
+		position: absolute;
+	}
+	.row: after{
+		display: table;
+		clear: both;
+	content: "";
+
+
+	}
+	#input{
+		margin-left: 20px;
+	}
+	#text{
+		margin-left: 10px;
+	}
+	label{
+		color: blue;
+		font-weight: bold;
+	}
+	#gender{
+margin-left: 900px;
+padding-left: 20px;
+margin-top: 1px;
+	}
+	#gender1{
+margin-left: 850px;
+padding-left: 20px;
+margin-top: 1px;
+	}
+	#height{
+			margin-left: 930px;
+			margin-top: 5px;
+	}
+	#height1{
+		margin-left: 870px;
+
+	}
+#height_radio{
+	margin-top: -15px;
+	margin-left: 950px;
+	position: absolute;
+}
+img{
+	margin-left: 860px;
+}
+
+</style>
+
+	<h1 style="color: white; align-content: center;">Join the "Men In Black"</h1>
+<h2>Welcome Alien !!!</h2>
+
+<div class="row">
+	<div class="column">	
+		<label id="name" for="name">Name: </label>
+    <input type="text" id="input" name="name"><br><br>
+
+
+	<label id="name" for="name">Language: </label><br>
+  
+  <input  type="checkbox" class="checkbox" name="english" value="English">
+  <label style="color: black;" id="text" for="english"> English</label><br>
+
+  <input  type="checkbox" class="checkbox" name="hindi" value="Hindi">
+  <label style="color: black;" id="text" for="hindi"> Hindi</label><br>
+  
+  <input type="checkbox" class="checkbox" name="tamil" value="Tamil">
+  <label id="text" for="tamil" style="color: black;"> Tamil</label><br>
+   
+  <input  type="checkbox" class="checkbox" name="telugu" value="Telugu">
+  <label id="text" for="telugu" style="color: black;"> Telugu</label><br><br><br>
+
+  <label id="name" for="experience">Experience: </label>
+   <textarea  name="experience" rows="6" cols="20"></textarea>
+
+</div>
+<div class="column">
+		<label  id="gender1" for="gender">Gender</label><br>
+	<select style="color: black;" name="gender" id="gender">
+ 
+    <option value="male">Male</option>
+    <option value="female">Female</option>
+   
+  </select><br><br>
+ <label id="height1" for="height">Height </label><br>
+ <input type="radio" id="height" name="height" value="under 1 meter">
+ <label style="color: black;" id="height_radio" for="height">Under1Meter</label>
+ <input type="radio" id="height" name="height" value="above 1 meter">
+ <label style="color: black;" id="height_radio" for="height">Above1Meter</label>
+ <input type="radio" id="height" name="height" value="changeble">
+ <label style="color: black;" id="height_radio" for="height">Changeble</label>
+<br>
+<img src="img1.jpg"  width="300" height="193">
+</div></div>
+  <br>
+
+ 
+</body>
+</html>

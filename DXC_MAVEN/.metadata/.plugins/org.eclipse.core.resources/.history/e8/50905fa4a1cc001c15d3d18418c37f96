@@ -1,0 +1,52 @@
+    <!DOCTYPE html>  
+    <html>  
+    <head>  
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">  
+    <title>Edit Form</title>  
+    </head>  
+    <body>  
+     <%@page import="com.dxc.banking.registration.RegisterDao"%>  
+<jsp:useBean id="member" class="com.dxc.banking.registration.Member"></jsp:useBean>    
+    <%  
+    String Email=request.getParameter("Email");  
+  
+    %>  
+  
+Full_Name varchar(45) not null,
+Email varchar(45) not null,
+Phone_Number varchar(45) not null,
+Address varchar(45) not null,
+Pancard_Number varchar(30) not null,
+Security_Question varchar(45) not null,
+Balance varchar(30) not null,
+Account_Type varchar(30) not null,
+Opening_Date varchar(30) not null,
+Account_Password varchar(30) not null,
+    <h1>Edit Form</h1>  
+    <form action="updateMember.jsp" method="post">  
+    <input type="hidden" name="id" value="<%=member.getEmail() %>"/>  
+    <table>  
+    <tr><td>User Name:</td><td>  
+    <input type="text" name="UserName" value="<%= member.getUserName()%>"/></td></tr>  
+    <tr><td>Full Name</td><td>  
+    <input type="text" name="Full_Name" value="<%= member.getFull_Name()%>"/></td></tr>  
+    <tr><td>Email:</td><td>  
+    <input type="Email" name="email" value="<%= member.getEmail()%>"/></td></tr>  
+    <tr><td>Sex:</td><td>  
+    <input type="radio" name="sex" value="male"/>Male   
+    <input type="radio" name="sex" value="female"/>Female </td></tr>  
+    <tr><td>Country:</td><td>  
+    <select name="country">  
+    <option>India</option>  
+    <option>Pakistan</option>  
+    <option>Afghanistan</option>  
+    <option>Berma</option>  
+    <option>Other</option>  
+    </select>  
+    </td></tr>  
+    <tr><td colspan="2"><input type="submit" value="Edit User"/></td></tr>  
+    </table>  
+    </form>  
+      
+    </body>  
+    </html>  

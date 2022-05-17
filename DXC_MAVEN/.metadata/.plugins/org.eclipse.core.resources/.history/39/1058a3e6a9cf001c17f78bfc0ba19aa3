@@ -1,0 +1,27 @@
+package com.dxc.banking.register;
+
+public class RegisterDao {
+
+	private String dburl="jdbc:mysql://localhost:3306/dxcdb";
+	private String dbuname="root";
+	private String dbpassword="Mysql@2710";
+	private String dbdriver="com.mysql.cj.jdbc.Driver";
+	
+	public void loadDriver(String dbDriver) {
+		try {
+			getClass().forName(dbDriver);
+		}catch(ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+	
+	
+	
+	
+	
+	public String insert(Member member) {
+		
+		return null;
+	}
+
+}

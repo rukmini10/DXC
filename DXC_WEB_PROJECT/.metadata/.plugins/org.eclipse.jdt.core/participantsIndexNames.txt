@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+F:\DXC_WEB_PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3546827884.index
+\CalculatorClient\src\main\java
+F:\DXC_WEB_PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\763947951.index
+\Account\src\main\java
+F:\DXC_WEB_PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3346673722.index
+\SoapWebServiceAssesmentClient\src\main\java
+F:\DXC_WEB_PROJECT\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\143290533.index
+\CalculatorClient\src\main\java

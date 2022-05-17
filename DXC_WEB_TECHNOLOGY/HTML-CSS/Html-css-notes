@@ -1,0 +1,129 @@
+Root Tag
+
+HTML
+Html stands for hyper text markup language used for showing enclosed data in tags on web
+it helps to tell to browse that how to show enclosed text on web
+it helps to create the structure of web page or website but simple
+it is not case sensitive language there all cases accepted
+
+
+Html consists of tags. tags can be categorised as
+1.paired tags/container tags
+it consists of start and end tag
+2.emplty/singelton/non container tag:
+it consists of only start tag no end tag
+
+Attributes in html:
+it helps to enhance the appearnce of text enclosed in tags
+it can come under container as well as empty
+
+horizontal ruler<hr>
+break a line<br>
+paragraph<p></p>
+hyperlink <a href="" target="_blank"></>
+
+==>Image tag
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>First Wweb Page</title>
+</head>
+<body>
+	<h1>Hello Everyone</h1>
+<img style="height: 300px;width: 400px;border-radius: 40px;" src="img2.jpg"></img>
+</body>
+</html>
+
+
+==>To create a table
+
+<table>
+<tr>
+<th></th>
+<tr>
+<td></td>
+</tr>
+
+<html>
+
+<head>
+<title></title>
+</head>
+
+<body>
+</body>
+</html>
+
+==mAKE  a page having headers, text styles, fonts ==>
+
+<html>
+
+<head>
+<title>First Web Page</title>
+</head>
+
+<body bgcolor="cyan" text="red">
+<h1>The quick brown fox jumps over the little lazy dog</h1>
+<h2>The quick brown fox jumps over the little lazy dog</h2>
+<h3>The quick brown fox jumps over the little lazy dog</h3>
+<h4>The quick brown fox jumps over the little lazy dog</h4>
+<h5>The quick brown fox jumps over the little lazy dog</h5>
+<h6>The quick brown fox jumps over the little lazy dog</h6>
+<hr>
+<br>
+<font color="blue" size="16">
+<b>This text will be in bold</b><br>
+<i>This text will be in italic</i><br>
+<u>This is underlined text</u>
+</font>
+</body>
+</html>
+
+
+
+== list in html======
+
+<html>
+
+<head>
+<title>Lists and Pre</title>
+</head>
+<body>
+<ul>
+	<li> Apple </li>
+	<li> Orange </li>
+	<li> Mango </li>
+	<li> Banana </li>
+	<li> Grapes </li>
+
+</ul>
+<ol>
+	<li> Apple </li>
+	<li> Orange </li>
+	<li> Mango </li>
+	<li> Banana </li>
+	<li> Grapes </li>
+
+</ol>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

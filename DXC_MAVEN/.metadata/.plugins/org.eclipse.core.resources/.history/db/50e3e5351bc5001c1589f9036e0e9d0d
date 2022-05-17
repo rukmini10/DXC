@@ -1,0 +1,74 @@
+package com.dxc.training;
+
+import java.util.List;
+import java.util.Scanner;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.dxc.training.bean.Student;
+import com.dxc.training.dao.StudentDAOImpl;
+
+public class App 
+{
+    public static void main( String[] args )
+    {   int rollno;
+    String name=null,stream=null;
+    
+    
+        ApplicationContext context=new ClassPathXmlApplicationContext("ApplicationContext.xml");
+        StudentDAOImpl stDAO=(StudentDAOImpl)context.getBean("studentDAOImpl");
+        Scanner sc=new Scanner(System.in);
+        int choice=0;
+        do {
+        	System.out.println("\n1.Adding new Records");
+        	System.out.println("\n1.Adding new Records");
+        	System.out.println("\n1.Adding new Records");
+        	System.out.println("\n1.Adding new Records");
+        	System.out.println("\n1.Adding new Records");
+        	System.out.println("\n1.Adding new Records");
+        	System.out.println("\n1.Adding new Records");
+        	choice =sc.nextInt();
+        	switch(choice) {
+        	case 1: 
+        		System.out.println("Enter Student name");
+        	name=sc.next();
+        	System.out.println("\n1.Adding new Records");
+         	name=sc.next();
+        	System.out.println("\n1.Adding new Records");
+         	name=sc.nextFloat();
+        	}
+        	
+          
+        
+        System.out.print("\n------------Adding new Records----------------------");
+        stDAO.createStudent("Rukmini", "Science", 89.90f);
+        stDAO.createStudent("Teju", "Arts", 78.00f);
+        stDAO.createStudent("Spandana", "Science", 88.75f);
+        stDAO.createStudent("Likhi", "ComputerScience", 99.30f);
+        
+        System.out.print("\n------------Show All Records----------------------");
+        List <Student> students=stDAO.listStudents();
+        for(Student st:students) {
+        System.out.print("\n"+st);	
+        }
+        
+        System.out.print("\n------------Modifying a record----------------------");
+        stDAO.updateStudent(2, "Science", 88.00f);
+        
+        System.out.print("\n------------Show record by rollno----------------------");
+        Student student=stDAO.getStudentById(2);
+        System.out.print("\n"+student);	
+        
+        System.out.print("\n------------Show record by rollno----------------------");
+        stDAO.deleteStudentById(2);
+        
+        System.out.print("\n------------Show All Records----------------------");
+        students=stDAO.listStudents();
+        for(Student st:students) {
+        System.out.print("\n"+st);	
+        }
+        
+    }
+}
+}
