@@ -1,0 +1,1008 @@
+===>DAY-1
+insurance gives us protection for future sudden incidents
+
+compensation of financial loses which are getting contributed 
+by large number of people
+and compensated with few number of people
+
+hazard- hazard is a situation which can increase a level of risk
+
+moral hazard- wrong info givern to comapny during
+ insurance(intensioanlly wrong)
+              when u cheat company
+morale hazrd- un intensionaly wrong information
+
+occupational hazard- where there is a high risk 
+doesnt gives insurance
+working in coal mine ,doest give adventure activiteis
+
+related to professional insurance will gives
+
+petrol pump has highest occupational hazard
+
+legal hazard- 
+                    
+====>DAY-2
+
+Risk Management
+1)risk identification - any organisation with first identify the risk areas then
+2)risk evaluatioon - they will identify how much risk happens
+3) risk management techniques- many techniques where risk can reduce
+4)implementation of techniques - after identifying the techniques they will implement 
+5) review- after implementing technique they need to review whether technique is working properly or not 
+
+==preventive health checckup is risk recuce
+
+
+risk burdens
+1)primary burden of risk
+you can measure the risk 
+these loses are directly measureble
+
+2) secondary burden
+you cannot measure the risk
+eg:tension,fear
+
+advantages of handling risk
+1)reduction of uncertainity
+2)loss of control
+3)indemnification- it is compensation of loss
+eg:
+4) funds for investments
+
+disadvantages of handling risk
+1)operating expenses
+2) moral hazard - people having wrong intension
+
+chapter - 2
+insurer- any company which carries the insurance business
+
+history of insurace industry
+
+first life insuracne company - oriental life
+first non-life insurance - triton insurance
+first indian insurance - bombay mutual assurance - formed in 1870 in mumbai
+the oldest insurance company -1960 natioanl insuracne- still running
+
+Highlights of insurance industry
+-LIC is one of fastest growing sectors in india since 2000
+- the industry consists of 24players with LIC as sole public sector company
+- despite this life insurance penetration in india remmains low 
+  i.e, 3.69%
+
+
+Overview of insurance in india
+--one of the top 10life insurance markets in world(premium of USD 73bn)
+--favorable demographics and GDP growth
+--low penetration of protection products - 70% vis-a-vis 260% of japan
+--increasing investments insurance companies in india raised rs.434.3bn through public issues in 2017
+
+INDIA is financialisation of savings
+
+private life insurer market share
+-private 
+-public sector from 
+
+
+IRDAI - Insurance regulatory and development authority of india
+this governs both life insurance and general insurance
+april 2000 it forms as a statutory regulatoty body for life,
+non-life, , health insurance and reinsurance industry
+IRDA has been subsequently renamed as IRDAI in 2014
+
+it has authority to shutdown the insurance company
+
+Journey of IRDA
+==1991 - govt of india begins economic  
+
+Intermediaries in insurance industry
+
+-insurance agents - An agent is an individual who is an intermediary representing an 
+insurance company , insurance agent who holds a license to act as an insurance agent 
+for life insureer, and general insurer
+
+-corporate agents is intermediary other than individual company 
+
+-insurance brokers - a person licensed by IRDAI who arranges insurance 
+	contracts with insurance companies on behalf of his clients
+	An Insurance Broker may represent more than one insurance company and may deal 
+	with more than one life or general insurer or both.
+
+-banc assurance - Bancassurance is an arrangement between a bank and an insurance company, 
+through which the insurer can sell its products to the bank's customers
+
+-TPA -Third party administrators - 
+-Surveyors - They act as intermediaries between the insurer and the insured 
+             in settling the claims. 
+             Surveyors operate in general insurance business area.
+
+- Web Aggregators- web aggregators collects and provide information about 
+different companies' insurance policies on a website. They act as intermediaries 
+between the insurance companies (insurers) and people who want to take insurance policies.
+
+-Insurance repositories - 
+
+- insurance marketing firms- procure insurance products, to undertake insurance service 
+activities and to distribute other financial products.
+
+-insurance self network platform
+
+-POS(point of sale)
+
+====>Insurance Contract
+It is one of the largest contract
+insurace is such a kind of contract where 2 parties agree 
+
+defined as an agreement between two parties whereby one party
+ is called an insurer and the other is called insured
+
+==>Essentials of valid contract
+
+1) which any contract requires - 2 or more parties
+eg: marriage , we cant do with out 2 persons
+2) free consent- because of fear , or forcefull 
+one party is not agreeing the terms and conditions then it is not valid contract
+3) lawful objective- any contract we are making that could be lawful and legal 
+it is intention-objective
+eg:
+Q)why cant we buy insurance for lotter?
+Why because it is a gambling and 50-50 chance and uncertainity
+and unlawful of activity and more chances of loses 
+
+4)lawful consideration-
+both party should be mutual benifit
+eg:buying a gold from u ,acqviring gold from smogling and this is at 50% discount
+and not avare of this is smugling and this is still not valid 
+because doing illegal activity by one party
+
+5)offer and acceptance-
+one party will contract and another party accept the offer
+
+
+==>principles of insurance contract
+1)Utmost goodfaith-it means trust
+The fundamental principle is that both the parties in an insurance contract 
+should act in good faith towards each other, i.e. they must provide
+ clear and concise information related to the terms and conditions of the contract.
+
+The Insured should provide all the information related to the subject matter, 
+and the insurer must give precise details regarding the contract.
+
+Example – Jacob took a health insurance policy. At the time of taking insurance,
+ he was a smoker and failed to disclose this fact. Later, he got cancer. 
+In such a situation, the Insurance company will not be liable to bear 
+the financial burden as Jacob concealed important facts.
+
+at time of insurance taken he is not smoker and in future he is become somker 
+then it is utmost good faith we will still provide u claim
+
+what is material facts?
+some facts which influences mind of a prudent underwriter - will descide whether to give insurance or not
+
+2) Insurable interest- is said to exist when, due to happening of an
+unfortunate event, the proposer stands to suffer a financial loss
+
+eg: nadhini is taking one loan from bank, sadana is gurantee,
+sadana is saying if nandini unable to pay means sadana will pay
+if anything happens to nandini , sadana needs to pay because she is guranter
+buying a insurance policy needs not to be a blood relation
+
+eg: whenever there is financial loss then there will be insurable interest
+
+why i can able to buy insurance for someone?
+i can buy insurance by group insurance , leader of the group can buy insurance to all group members
+
+3)Principle of indemnity
+insurance is meant to compensate the losses
+the mechanism of insurance cannot be used to make profits 
+amount of claim cannot be exceed the amount of loss incurred
+
+4)proximate cause
+the cause of loss must be proximate or immediate and not remote
+if proximate cause of loss is a peril insured against, the insured can recover
+
+when insurance settles the claim they will check proximates the cost
+eg:we are living in 3rd floor we have taken insurance for fire, if flood occurs 
+and fire has happens then proximate cause was flood and not fire, then claim wont occurs
+
+risk- chances of loss
+peril-reason of loss
+
+---->Is insurance a legal contract?
+yes
+intention is legal
+proposer offers - insurer accepts
+premium is consideration(profit)
+insured must be major with sound mind capacity to contract
+insured and insurer are in agrement of same mind and free consent
+
+
+===>Types of insurance
+1. General  - rest all insurances like property, fire, etc
+2. health - is for health of human beings , taken for individuals
+3. life - only takes insurance for individual
+
+
+==>plans in life insurance
+most popular plan
+Term plan - we will pay low premium and gets big insurance coverage
+eg:for year 5000 he pays , he may get 1 crore
+death benifit-receives by nominee
+no maturity benifit
+no survival benifit
+no bonus
+
+whole life- it is up to 100 years of age
+death benifit
+yes maturity benifit
+yes survival benifit
+no/yes bonus-depends on company
+summation+bonus when something happens
+
+why should i buy term plan?
+it is like mediclaim 
+if anything happens , who are financial depend on you then nominee will get huge amount
+
+2) Genral Insurance
+it is for various things otherr than humanbeing
+fire,marine,car,agricular,engineering,
+
+miscellaneous-if you are buying insurance for third party insurance
+
+motor insurance- any damage occurs for the cars,motar vehicles
+
+marine- a type of insurance designed to provide coverage for the transportation 
+of goods either on the ocean,land ,by railway etc
+
+engineering insurance- it is for machinary
+
+
+3)Health Insurance
+==>Indemnity policy-where expenses will given up to extensed loss only
+=after paying premium 
+for few days(for some next 90days-180days like that) - no claim
+
+=after no-claim period 
+expenses incurred will be paid out subject to limit of sum insured
+
+=term is one year or more
+if there is nothing claimed by us this year then 10% will increase
+for next year (i.e no claim bonus)
+
+=every year we need to pay premium and renewl 
+
+==>fixed benifit policy 
+will give you fixed benifit how over you have 6 lakshs , your premium is 10 lakshs then also then will pay 10 lakhs
+
+---->Life insurance and its needs
+==it is a source of providing a strong financial support for 
+family members of life insured even after he is not there
+==a medium to protect customers and their family financially
+and help them acheive
+
+===>concept of life insurance
+--survival benifit- eg:money back plan 
+company pays back the amount to life insured after maturity of insurance policy along with  additional benifit 
+if any
+it is like getting back money in interval wise like 50000,50000 and all like that
+every 5 years you will recive 25% of summation
+
+--death benifit-
+
+DAY-3
+
+===>Need of life insurance
+
+if you have severe pain in chest, what would you do?
+senario-1
+visit the chemist->tell the prob->chemist recommends the medicine
+
+senario-2
+visit the doctor->tell the prob->doctor recommends the medicine
+
+i prefer 2
+
+Need Identification - tool for financial analysis
+according to the form filled, financial advisor suggest according to that
+
+===>Benifits of life insurance
+-we will pay low cost and has high financial security to the nominee
+(applicable only to term plan)
+
+-income tax benifit
+life insurance will save yourtax up to 1,50000
+limit of availing the tax benifit up to 150000 under section 80C
+
+-saving instrument
+
+===> Types of life insurance plans
+2 divisions
+1>Traditional Product
+canot invest your money in to equity market
+
+===various trationals
+2 sub division-participating and non participating
+participating-means your policy will get bonus , if you are paying premium  , company will invest and the profit will share with u that is bonus
+eg:whole life plan
+non-participatin-you wont get bonus
+eg:term plan
+1.term-
+cheeper premium , bigger inssurance
+no maturity
+only death benifit
+larger summation than term plan
+up to 85 years
+
+2.wholelife
+little higher costlier than term plan
+gets benifit maturity-even nothings happen to you you will get
+up 100 years
+gives u bonus
+larger summation
+ 
+3.endowment
+-you pay premium,company gives u choice like 20 years,30, etc for buying policy
+you can select policy term according to your choice
+after that years completed the compnay will distribute that bonus after policy completion
+summation+bonus=endowment
+if anythings happens then company will pay up to that date
+
+4.annuity plan
+see below
+
+5.money back policy
+offers survival benifit
+as a customer paying premium regularly - normally comes 20 years,25 years, 30 years
+you have taken 10lakh policy 
+after completing 5 years company will give you 25% of summation
+and after 10th year another 25% like that
+after completing plan you will get bonus
+-death benifit
+ 
+
+2>ULIPs
+means unitling insurance plan-
+can invest your money in to equity/share market
+gurantee cannot be there
+risk is only by investors
+
+---Terminology
+policy term-represent how many years policy will continue
+
+payment term- the term for which premium is paying 
+policy of 20years then premium wont be 20 years , it may be 10 years
+
+ATP- annual target premium
+what ever you are paying premium for every year
+
+Units-
+when you are paying premium u will receive units in return back
+you are paying 50,000 
+price of 1unit is 10 rupee then you will return 5000 units
+
+NAV-net asset value
+it represnt price of 1unit
+
+Account value-
+NAV*total units available during policy
+
+Fund- accumalation of money to large number of people
+to achieve investment
+
+Maturity benifit-
+1.when maturity happens
+fundvalue=no.of units*NAV
+2.total fund value will be pays at end of policy
+
+Death benifit-
+offers 2 options
+1.level death benifit-at time of death either SA/fund value is paid
+it depends on nominee which is higher
+2.increasing death benifit-
+nominee will receive summation and fund value both
+
+=======>Types of charges
+1.fund management charge- to pay the salary and manage company will take fund managemtn from you to adjust NAV
+deducted from NAV adjustment
+
+2.Premium allocation charge- 
+deducted from premium before the premium is invested
+
+3.policy administration charge-
+are our expenses like electricity, salary etc
+deducted from unit cancellation
+
+4.mortality charge-
+for paying death benifit , company will charge this  from us
+cover on yearly basis and is ususal charged monthly
+deducted from unit cancellation
+
+5.surrender charge-
+you said you will pay 20 years to company
+but suddenly you dont want to pay after years
+then company will charge these amount , deducted from total fund and gives us remaining funds
+
+6.incidental charge-
+actually occurs when sudden incidents happens
+accident benifit charge
+tax charged on monthly basis
+
+7.morbidity-
+will be charged for paying accidental/health claim
+deducted from unit cancellation
+
+===>Gaining in volatile market
+
+-----------Rupee cost averaging---------------
+1.Fixed amount is invested at regular interval of time
+2. when NAV is low, more units are bought and 
+When NAV is high, fewer units are bought
+3.over a period of time the avg.purchase price of the investors holding will be lower
+4.the process of rupee cost averaging is done
+
+==>Systematic transfer plan
+1.in this option investible premium is first invested to a debt fund(secure plus fund)
+there after each month 1/12th of units are automatically switched out of secure  plus fund to growth supr fund
+2.the customer can opt for systematic transfer plan anytime 
+duns the policy but only on policy anniversary
+3.available only on annual mode
+4.it helps the customer take advantage of the market movement and average out the net buying cost
+
+->Switching
+existing investment can be moved in totally in a certain proportion to one or more funds from the 
+current funds. life insurare after free switches in policy year- free of change.additional switches available at a a charge
+
+->Redirection
+
+
+--Surrender
+when we are unable to pay money then we want money then we will take this
+policy is allowed at anytime
+surnder value is paid only after the 5th policy year
+but we cant in middle of before 5 years
+-surender charges will applicable in first four years
+-no charges will be applicable after 5th policy year
+
+--Annuity
+it is anual or periodic payment after retirement i.e,oension
+this could be monthl,halfyarly,quarterly annually  payment
+
+eg:50k*200=1cr
+fv(6%,42,0,-1000000)
+pmt(12%,42,0,16cr)
+
+Two types
+1.Deffered 
+wherever 
+2.Immediate
+
+==>Types of annuties
+1.Life annuty
+as long as u are alive you keep receiving annuity ,
+if you die your nominee willnot recieve
+
+2.Joint life annuity
+as long as u are alive you keep receiving annuity ,
+if you die your spouse will receive annuty
+after spouses death no will receive
+
+3.Life annuity with return of purchace price
+.....
+if you die your nominee will recieve
+
+4.life annuity guranteed for 5/10/15 years
+as long as u are alive you keep receiving annuity ,
+if you die your nominiereceive annuty till guranteed period
+i.e either 5/10/15 years
+if you select less period annuity will higher
+if you select high period annuity is less
+
+5.Joint life annuity with return of purchace price
+as long as u are alive you keep receiving annuity ,
+if you die your nominiereceive annuty till,
+after spouce death nominee will receive purchase price
+
+6.Immediate annuity with regular payouts
+if you havve so much money and you want pension immediate from 
+next month, then immediate this is the choice
+
+7.deffered annuity
+.....
+
+
+How does immediate annuity works?
+-you fund the annuity i.e one time premium
+-insurer calculates the value of payouts based on premium
+-payouts begin almost immediately
+
+
+
+-----------------------------------------------------------
+Riders and supplementary benifits
+----------------------------------------------------
+these are extra benifits even they are alive
+
+plain vaneela icecream is insurance
+toppings on that is riders
+
+eg: some one buying insurance , he will get death benifit
+if someone has accident, he is handicapped, in such a situation people will recieve some benifits
+someone bought insurance, he got cancer, his kidney failed, needs to treat heart transplant
+these all , rider can give benifits
+but needs to pay extra for riders
+
+Different riders available in insurance
+-accidental death and perminant disablity benifit
+1.if accident happens , due to that accident death happens , then your nominee will recieve basic insurance amount+rider summation
+2.accident happens,due to that disability happens , then you will get rider summation
+
+-waiver of premium rider
+3.accident happens, disability happens, then also you need to pay future premium
+then that person have already bought wavier of premium along with this then no need to pay
+if not need to pay
+
+-critical illness rider
+if there iscertain illnesses , which have financial problems bigly
+eg:if kidney fails , requires lot of expense these are critical illess
+if you taken critical and waiver rider they will give rider summation and future premium will remove
+principle of indemnity
+
+-term rider
+
+-family income benifit rider
+if income gets stopeed company will gives you 10,000 per month
+this rider has not there now due to some reasons
+
+-surgical assistance benifits
+if any surgical occurs then insurance companie will paid
+
+-------------------------------------------------------------------
+==>DAY-4
+-->underWriting
+Two types
+1.Participating
+2.Non participating
+
+How is bonus determined?
+Expenses,mortality,investment
+
+->Company needs to invest where IRDAI allows 
+
+
+first year  premium +reewl premium 
+through this 
+
+
+==============
+if par fund is 100 rupees in that 
+5 rupees is went behind expenses
+
+
+BEnifits of bonus
+------------------
+flexibility of three bonus options
+1.paid up additions
+-bonus amount is used to purchase additional cover
+-PUAs will increase the base insurance cover every year
+-PUAs can be separately surrended if customer wants to access the cash value of PUAs
+insurance cover without additional premium
+
+2.premium offset
+bonus will be adjusted by future premium payable
+new summation will be bought for policy holder
+
+3.cash bonus
+majority time companies allows this pption
+-insurance company will not allow direct bonus , they will re invest
+
+====Underwritting
+why?
+when any one applied some may happen fraud 
+like someone has not died , but death certificate submitted
+thats like lot of frauds has happens
+if they finds any such cases , underwritters identifys the risk of policy holder
+
+eg:someone is asking 10cr amt and again asking 20ce insurance , then
+underwritter ensurres why he is taking this policy
+
+Purpose
+--------
+
+Definition
+-----------
+the term selection of risks refers to the process of evaluating each proposal for 
+like insurance in terms of degree of risj it represents and then deciding
+whether or not to grant insurance and on what terms
+====underwritters will descide whether to grant or not
+
+Classifications
+----------------
+1.Field cum Primary underwritter
+
+eg:agents/agency development managers are front line people they are primary underwriter
+eg: insurance agent asked to join insurance sales ccall 
+in some area, after you went the house ,
+person said he wants to buy insurance on his wife names,
+then you asked that same type of insurance to you also
+his wife was handicaped and he lied abt that
+---agents needs to check all details well and responsible
+-they come in personal contact with client and have an excellent oppurtunnity to assess the risk
+
+2.Technical underwriters
+
+underwritting team are employyes of company
+when u filled the proposal form then check will be given to underwritter
+all suspisos activities , needs to check by this underwriters
+--they check each every details to make sure not fraud happens
+---The person actually concluding the contract of insurance there by commiting the contractual liabilities and obligations
+---he is required to be vigilant while scruntinizing each and every document submitted and ensure that the basic underwriting requirements
+
+----------------
+Risk Classification
+--------------
+when someone applies for insurance defenetly insurance company gives us suggesion
+according to lifes
+
+1.Standard lives
+these consists of those whose anticipated mortality corresponds to standard lives represented by mortality table
+eg:person having 5'8 height and 65kg 
+
+2.Preferred Risks
+any person having good healthy conditions, family conditions, and area is good comes under this
+
+3.Sub standard lives
+some one having minor things like BP, having less risk
+give insurance but high premium
+
+4.Declined lives
+someone have high bp,sugar,cancer is occuring to every one,,moral hazard,occupationsl hazard
+company will say no we dont give insurance to people
+
+==>What underwritter do?
+underwriter is a n employyee of insurer
+evaluates the risk
+accepts the applications
+declines applications
+determines appropriate premium
+--Needs to take decision to provide insurance coverage or not is commonly referred to as an underwritting
+--decisions take carefully for not getting frauds and affect the sucess or failure of insurance company
+
+===>UNderwriters Decisions
+1.Acceptance at ordinary rates
+while applying insurance company tells to pay 10laksh premium, underwriter will  will accept if condition is good and fit 
+
+2.Acceptance with an extra
+if you are having some health conditions then underwritter will ask you to pay some extra premium
+
+3.Acceptance with lien on the sum assured
+you have bought the policy in medical, you have hyper contrl
+underwriter will say , we will give you policy, 
+but if you die with first year due to hyper tension
+we will cut 80% lien and gives remaining
+next 2nd year 60%
+3rd year 40%
+4th-20%
+5th - 0
+this is only for 5 years
+lien is temporary condition not permanent
+
+4.Acceptance with a restrictive clause
+this is a permanent condition
+if you are having high sugar
+if anythings happens due to sugar we will not give u anything
+this is a loss for company
+
+5.Decline or postpone
+decline means underwritten descides if you have big disease
+some times postpone the policy , i.e gives you time to control ur sugar conditions
+
+==============================
+Why is sound underwritting important?
+Screenshot
+nothing but a proper underwriting where risk will be identified so company wont be loss financially
+
+---------------------------------
+==>Objectives of underwritting
+
+==>Risk Factors in Life Insurance
+1.
+---------------
+2..............
+
+
+4.Networth
+you cant buy insurance more than networth
+networth=assets-liabilitys
+
+
+---------------------------------
+3.......
+1.Occupation
+if person is car racer then company gives u premium?
+yes , but company will charge higher premium where they are facing occupational hazard
+
+2.Avocation
+it means profession as hobbie
+fly- give u insurance but high premium
+
+3.Hobbies
+bungy jumping, scuba diving 
+he will get insurance but extra premium
+
+4.Residence
+eg:
+person is situated in beautiful city, due to job need to shit another place,
+where there is a lot of polution, will company give u insurance? if i die there?
+yes, because at time of insurance taken he was located in good area
+
+eg:
+if person has performed moral hazard for above example will give insurancce?
+yes, even shifted temporarily
+
+5.Moral Hazard
+eg:person going daily to office, one day he came to to know cancer has occured,
+i have already taken 5cr, and only some days more, so he chooses suicide
+will claim comes or not?
+insurance comes to investigate why he chooses suicide
+if due to depression of cancer , then claim will comes
+other wise no claim
+----------------------------------------------------
+
+==>Documentation
+Age Proofs-List "A"
+-----------
+Accepted as age proof
+-Driving license
+-pan card
+-adhar
+-voter id
+-certificate issued by village punchayat- providing details of name and date of birth and stamped
+-Health scheme(CGHS)certificate
+-ESIS card
+-PF statement
+-only discard card-from nursing home the DOB for age up to 5 years will be acceptable
+
+-Baptism certificate,municipal birth certificate
+-SLC/higher ssecondary mark lisr,schhol/college certificate
+-passport
+-Note
+-all the ID must clearly show DOB
+-Age prrofs in vernacular language(regional) language should be translated and attested by Manager
+
+-----------------------------------------
+==>Not accepted as age proofs
+-horoscope can not be age group
+
+--------------------------------------
+===>FOrms and Questionnaries
+while applying insurance additional details need to take
+Questionners are like questions asked while filling the details 
+
+-intent of taking cover
+-previous cover details
+-pan
+-nature of occupation
+-last 3 years of annual income
+-various assets including properties,investments etc
+-lifestyle questions like smoke/drink/travel/risk taking activities
+-Juvenile questions- givings details on life cover on sibling of insured
+-business ownership details
+-Account details of business
+-partIII of financial questionnaries has to be filled by agent
+
+----------------------------------------
+Asset Liability Statements
+------------------------
+Important areas in these statements are:
+-name of bank should be specified
+-last 3 years annual income details
+-various categories of asset and liabilities
+-name of bank withwhom investments are made
+
+
+==>House Wife questionnaries
+---------------
+-housewife questionnarie has to be submitted in housewife cases
+
+
+==>Medical Underwritting
+Factors affecting medical underwritting
+--------------------------------
+Gender
+Build
+Habits
+personal medical history
+family medical history
+lifestyle
+
+
+Tools for medical underwritting
+-------------------------------
+-Medical Reports
+based on findings on medical reports, a descision can be taken about the health status of proposed  insured
+
+-Attending Physicians statement
+-Medical checkup quessionrie
+-specific disease questionnaries
+-discharge report
+
+----------------------------------------
+Objective of financial underwritting
+-------------------------------------------
+-the main purpose of insurance cover is to facilitate and allow only the replacement of financial loss due to any untoward incident
+
+
+Steps of financial Underwritting
+-----------------------------------
+1.Insurable interest for the cover
+
+2.life income multiple calculation
+they will check financial eligibility
+
+3.premium paying capacity
+they will keep same premium throughout according to the annual income
+so that they will pay easily
+
+Female life underwritting
+------------------------------
+two categories
+1.Earner/working female
+any female who is getting income,
+as a normal underwritting
+
+2.Non working
+this is like house wife
+insurance company will check how much her husband will getting income and financial background
+
+  again 2 types
+->husband has life insurance
+lesser of 10X husbands income or 25 lakhs
+
+->husband has no life insurance
+lesser of 5X husbands annual income or 10 lakhs
+
+----------------------------------------------
+==>Pricing and valuation in life insurance
+
+for every age/policy term premium changes 
+how calculation/table is generated?
+
+->Premium 
+if anyone is buying a life insurance he needs to pay insrance
+if anyone is notable to pay canceling the policy
+
+->Rebate
+insurance company will offers some discounts
+according to bigger premium less needs to pay  annually
+ to attract customers if taking high premium
+ 
+two such rebates are
+  -for sum assured 
+if u buy larger sum assured company will provide less premium
+  -for mode of premium
+
+->Extra charges
+if person is proposing for insurance suffers from certain health like heart/diabeties ,
+it can pose a hazard to his life.such a life is considered as sub standard
+
+any insurer may offer certain benifits under a policy which are available on payment of an extra premium
+------------------------------------------------------------------------
+
+==>factors affecting pricing of life insurance
+-Mortality
+risk of death claim
+for paying death benifit , company will charge this from us
+cover on yearly basis and is ususal charged monthly
+deducted from unit cancellation
+
+-Age of life insured
+until and unless without age we cant descide the premium of the person
+
+-interest rate
+if interest rate goes up , premium goes down , because profit increased
+
+-Management expenses
+if management expenses rises, go down premium also go down
+
+-Reserves
+those money which have insurance company 
+like if some wars occurs so many will die, company need to keep reservs and surplus 
+if reservs then premium is low
+
+-Bonus Loading
+
+---------------------------------------------
+==>risk premium
+How mortality is calculated?
+if the mortality rate for age 35 is 0.0035 it implies that out of every 1000 people
+who are alive as on age 35,3.5 (35 out of 10000) are expected to die between age 35 and 36
+
+ans: 
+0.0035*1000(sum assured)=3.50 per thousand sum assured
+
+the above cost may be also call risk premium higher the age , higher will be risk premium
+
+-------------------------------
+-->Net premium
+Estimates of mortality and interest giveen
+which estimates of present value of future claims
+
+Assuming a person is proposing for 20 lakhs of insurance,
+risk premium shall be 3500/-(assumption)
+
+Assuming interest oppurtunity by insurer be 5%  then
+interest rate will be 3500*5%=175/-
+
+hence net premium : risk premium less interest
+3500(less) 175=3325/-
+
+-------------------------------------------------
+-->Gross premium
+it is like
+gross = net premium + an amount called loading
+-loading means expenses
+there are 3 considerations / guiling principles that needs to be borne in mind when determining amount of loading
+
+--Guiding principles of determinign amount of loading
+adequacy
+equity-higher the summation higher the loadin, 
+lower the summation lower the loading
+competitiveness
+
+Expenses and reserves
+---------------------
+agents training and recruitment
+commisions of agents
+staff salaries
+office accomodations
+office stationary
+electricity charges
+other miscellanaeous etc
+
+gross premium=net premium+loading for expenses+loading for contingencies+bonus loading
+--------------------------------------------------------------------------------
+
+==>DAY-5
+==>Property Loss exposure and policy provisions personal lines
+
+-->Property loss
+property will not have financial loss only natural disaster
+These are associated with both real proprty such as buildings and personal property such as automobiles and contents of a building. a property is exposed to losses because of accidents, fire or catastrophes such as floods or earthquake.
+
+Two types
+1.Direct
+it occurs because of our mistake
+or immediate occurs
+
+2.Indirect
+consequential loss-because of anything, we dont have any control
+eg;you have a bonglow, next there is a another banglow, that person doing renovation
+then fire occurs suddenly to that and my bonglow this is consequence
+ 
+ ==>Categories of property insurance
+-Insurance of property means insurance of builings , machinery, stocks etc against fire and allied perils
+-burglary risks and so on
+-goods in transit via sea,air, railways,roads and courier can be insured under marine cargo insurance
+-hulls of ship and boats can be insured under marine hull insurance
+-there are specialised 
+
+-----marine cargo insurance
+Covers loss of or any damage to the goods is marine cargo insurance 
+
+-----hull
+insurance for ships,boats etc
+
+==Overview of personal lines insurance
+it is a type of insurance coverage purchased by an insividual
+to cover themselves and their families
+
+these policies protect against d/f kinds of personal risks that would be lead to potentially
+crushing financial losses caused by fire,theft,natural disasters,death, accidents,lawsuits and illness
+
+
+
+
+
+
+
+
